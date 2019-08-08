@@ -1,6 +1,6 @@
 package com.lambdaschool.initial;
 
-public class AthleteCreationInjector implements AtheleteCreator
+public interface AthleteCreationInjector
 {
     private Athlete athlete = new Athlete();
 

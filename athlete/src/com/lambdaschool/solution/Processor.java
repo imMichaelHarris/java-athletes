@@ -1,4 +1,4 @@
 package src.com.lambdaschool.solution;
 
-public interface AtheleteCreator {
+public interface Processor {
 }
