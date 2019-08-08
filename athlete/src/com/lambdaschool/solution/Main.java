@@ -1,4 +1,4 @@
-package com.lambdaschool.solution;
+package solution;
 
 public class Main
 {

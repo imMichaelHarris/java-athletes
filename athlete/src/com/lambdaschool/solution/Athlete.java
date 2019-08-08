@@ -1,4 +1,4 @@
-package src.com.lambdaschool.solution;
+package solution;
 
 public class Athlete
 {

@@ -1,4 +1,4 @@
-package com.lambdaschool.initial;
+package solution;
 
 public interface AthleteCreationInjector
 {
