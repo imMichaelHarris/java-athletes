@@ -7,7 +7,7 @@ public class MyApplication
     public void create(String sport)
     {
         System.out.println("************");
-        athlete.display(sport);
+        athlete        .display(sport);
         System.out.println("************\n");
     }
 }
